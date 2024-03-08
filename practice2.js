@@ -20,4 +20,3 @@ let x = "John Doe";
 // x can NOT be used
 let x = 0;
 console.log(x);
-
